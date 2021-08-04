@@ -67,4 +67,8 @@ public class Restaurant {
         return name;
     }
 
+    public int displayTotalBill(List<String> items){
+        return -1;
+    }
+
 }
